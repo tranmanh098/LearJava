@@ -6,6 +6,6 @@ package ex;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hi Hi Mạnh ơi!");
+        System.out.println("Hi Hi Mạnh ơi!123");
     }
 }
